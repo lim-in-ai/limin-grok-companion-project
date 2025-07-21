@@ -1,4 +1,5 @@
 limin Grok Companion Project
+<img width="2656" height="884" alt="_20250722003823" src="https://github.com/user-attachments/assets/ede726c0-4a67-40d1-b777-2f7d98cbcb3e" />
 
 
 A conversational AI CLI tool powered by Grok with intelligent text editor capabilities and tool usage.
