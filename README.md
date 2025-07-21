@@ -1,4 +1,4 @@
-# Mono Grok Companion Project
+limin Grok Companion Project
 
 
 A conversational AI CLI tool powered by Grok with intelligent text editor capabilities and tool usage.
